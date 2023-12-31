@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ehsan Amiri</h1>
-<h3 align="center">A passionate iOS (Swift/Objc) & Flutter developer</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iehsanamiri&label=Profile%20views&color=0e75b6&style=flat" alt="iehsanamiri"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iehsanamiri&label=Profile%20views&color=0e75b6&style=flat" alt="iehsanamiri" /> </p>
-
+### Hi, I’m Ehsan 👋 
+- 📱 A passionate iOS (Swift/Objc) & Flutter developer
+- 🧩 Feel free to contact me for contributing in projects
 - 💬 Ask me about **iOS & Flutter**
-
 - 📫 How to reach me **EhsanAmiri.Dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
